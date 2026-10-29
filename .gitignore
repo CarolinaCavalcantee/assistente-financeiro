@@ -1,0 +1,8 @@
+venv/
+.venv/
+
+__pycache__/
+*.pyc
+
+dados_usuario.json
+meus_dados_financeiros*.json
